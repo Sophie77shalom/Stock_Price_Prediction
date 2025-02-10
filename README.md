@@ -34,4 +34,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```  
 
-## **📈 Demo Screenshot** 
+## 📈 Demo Screenshot  
+
+![Stock Price Prediction](images/equity.png)  
+![Stock Price Predictions](images/safaricom.png)  
